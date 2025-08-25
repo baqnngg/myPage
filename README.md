@@ -13,27 +13,6 @@ cusor_HomePage/
 └── README.md           # 프로젝트 문서
 ```
 
-## 🚀 실행 방법
-
-1. **저장소 클론**
-   ```bash
-   git clone https://github.com/your-username/cusor_HomePage.git
-   cd cusor_HomePage
-   ```
-
-2. **로컬 서버 실행**
-   ```bash
-   # Python 3
-   python -m http.server 8000
-   
-   # 또는 Node.js
-   npx serve .
-   ```
-
-3. **브라우저에서 확인**
-   ```
-   http://localhost:8000
-   ```
 
 ## 🔗 관련 프로젝트
 
@@ -45,14 +24,9 @@ cusor_HomePage/
 - **이메일**: bbqdnrmas@gmail.com
 - **전화**: 010-3058-1049
 - **GitHub**: [@baqnngg](https://github.com/baqnngg)
-- **Instagram**: [@ni_mamei](https://www.instagram.com/ni_mamei)
+- **Instagram**: [@ni_mamei](https://www.instagram.com/baqnngg)
 - **위치**: 충주시, 충청북도
 
-## 📄 라이선스
-
-이 프로젝트는 MIT 라이선스 하에 배포됩니다.
-
----
 
 **Made with ❤️ and lots of ☕ by 장병준**
 
